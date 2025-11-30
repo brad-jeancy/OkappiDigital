@@ -1,0 +1,12 @@
+# robots.txt for Okappi Digital Website
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas if you add them later
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location (update with your domain)
+Sitemap: https://yourdomain.com/sitemap.xml
+
